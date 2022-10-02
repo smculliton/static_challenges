@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+header {
+  background-color: maroon;
+  color: white;
+  padding: 20px;
+}
+
+nav { 
+  background-color: #303030;
+  padding: 20px;
+  font-size: 15px;
+  text-align: right;
+}
+
+aside {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+section {
+  padding: 20px;
+}
+
+footer { 
+  padding: 20px;
+  background-color: #303030;
+  color: white;
+  font-size: 15px;
+}
+
+a {
+  
+  color: white
+}
+
+img {
+  width: 200px;
+  height: 150px;
+  padding-bottom: 40px;
+}
+
+h2 { 
+  font-weight: bold;
+  font-size: 30px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+p { 
+  padding-bottom: 15px;
+  font-size: 16px;
+}
